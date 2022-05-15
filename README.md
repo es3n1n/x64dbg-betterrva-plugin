@@ -8,3 +8,7 @@ from unknown memory pages too. \
 
 ### Screenshot:
 ![img](https://i.imgur.com/VLRbB1A.png)
+
+### Topics:
+[unknowncheats](https://www.unknowncheats.me/forum/general-programming-and-reversing/499615-x64dbg-betterrva-plugin.html) \
+[yougame](https://yougame.biz/threads/253507)
